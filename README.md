@@ -78,7 +78,7 @@ Then we check one of company distribution. Here I used apple change distribution
 
 - We can check the standarization using std()*3 to check 99.7% entire data, because the distribution is normal. After checking using std()*3 it shows that 99.7% chance that Apple daily return will lay in range between -3.5 and 3.5.
 - We can also check using quantile. I used quantile(0.1), which means 90%. The data shows that 90% of the time Apple worst daily lost will not exceed -1.4
-- Here are percentage daily return of each company after doing value risk analysis:
+- Here are percentage daily return of each company after doing value risk analysis (value in %):
 
 <img width="704" alt="Screen Shot 2022-03-15 at 20 08 34" src="https://user-images.githubusercontent.com/91368463/158395427-985a4fa5-b860-4f5f-aeb4-81183e03ca2d.png">
 
