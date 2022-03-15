@@ -72,7 +72,7 @@ Overall the change correlation between each companies are low, but Amazon and Mi
 
 <img width="411" alt="Screen Shot 2022-03-15 at 20 57 06" src="https://user-images.githubusercontent.com/91368463/158393813-a9265837-83c3-4b0c-860e-3b21079dfb1e.png">
 
-Then we check one of company distribution. Here I check apple change distribution and it shows that it have normal distribution:
+Then we check one of company distribution. Here I used apple change distribution and it shows that it have normal distribution:
 
 <img width="398" alt="Screen Shot 2022-03-15 at 20 59 02" src="https://user-images.githubusercontent.com/91368463/158394207-44aaf495-392c-46fe-a048-f237eb40a222.png">
 
