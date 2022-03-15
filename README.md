@@ -1,5 +1,5 @@
 # Stock Market Time Series Analysis
-#### Analyze big tech company's stock market and their correlation whether is affecting their price and daily returns or not.
+#### Analyze big tech company's stock market and their correlation whether are affecting their price and daily returns or not (using data from 2013/4 to 2018).
 ---
 
 ## Table of Content
@@ -12,7 +12,7 @@
 
 ## **Analyzing Closing Price of Stocks & Volume Trading**
 
-Visualization of big techs companies time to time from 2013/2014 to 2018:
+Visualization of big techs companies stock market time to time from 2013/2014 to 2018:
 
 <img width="1012" alt="Screen Shot 2022-03-15 at 13 10 44" src="https://user-images.githubusercontent.com/91368463/158317896-1efd7d31-0adc-4750-8eeb-c7aea767e2eb.png">
 
