@@ -76,6 +76,7 @@ Then we check one of company distribution. Here I used apple change distribution
 
 <img width="398" alt="Screen Shot 2022-03-15 at 20 59 02" src="https://user-images.githubusercontent.com/91368463/158394207-44aaf495-392c-46fe-a048-f237eb40a222.png">
 
+- After look at the distribution, we perform standarization. When we standardize a normal distribution, the mean becomes 0 and the standard deviation becomes 1. This allows us to easily calculate the probability of certain values occurring in your distribution, or to compare data sets with different means and standard deviations.
 - We can check the standarization using std()*3 to check 99.7% entire data, because the distribution is normal. After checking using std()*3 it shows that 99.7% chance that Apple daily return will lay in range between -3.5 and 3.5.
 - We can also check using quantile. I used quantile(0.1), which means 90%. The data shows that 90% of the time Apple worst daily lost will not exceed -1.4
 - Here are percentage daily return of each company after doing value risk analysis (value in %):
